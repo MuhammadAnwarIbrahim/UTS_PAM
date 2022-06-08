@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "project_UTS",
-    "slug": "project_UTS",
+    "name": "kapalzy2",
+    "slug": "kapalzy2",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,7 +24,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.mriski_aziz.project_UTS"
+      "package": "com.manwar.kapalzy2"
     },
     "web": {
       "favicon": "./assets/favicon.png"
